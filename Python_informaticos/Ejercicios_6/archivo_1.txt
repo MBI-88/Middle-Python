@@ -1,0 +1,7 @@
+Correo electronico de prueba de spam:
+X-DSPAM-Confidence: 0.8475
+X-DSPAM-Confidence: 0.7820
+X-DSPAM-Confidence: 0.9845
+X-DSPAM-Confidence: 0.1245
+X-DSPAM-Confidence: 0.50
+X-DSPAM-Confidence: 0.452

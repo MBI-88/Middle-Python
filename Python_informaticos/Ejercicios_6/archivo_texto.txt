@@ -1,0 +1,3 @@
+Hola estamos repasando Pyhton basico para informaticos, este fichero es un ejercicio de practica de Ficheros.
+Consiste en la lectura del fichero y imprimirlo en pantalla todo en mayusculas .
+Este metodo se usa para no cargar la memoria del sistema en caso de que el fichero sea mayor que la memoria Ram.
